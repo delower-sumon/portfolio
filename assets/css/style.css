@@ -1949,6 +1949,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 						hsl(98 100% 62%), 
     						hsl(204 100% 59%)
 						 );
+	/* background: linear-gradient(to right, #C6FFDD, #FBD786, #f7797d); */
 			-webkit-text-fill-color: transparent;
 			-webkit-background-clip: text; 
 }
