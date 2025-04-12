@@ -345,7 +345,8 @@ main {
     background: linear-gradient(to right, #21f391,
 					#ff6b08, #cfb523, #60ee44);
 			-webkit-text-fill-color: transparent;
-			-webkit-background-clip: text; 
+			-webkit-background-clip: text;
+			  background-clip: text; 
 }
 
 .info-content .title {
